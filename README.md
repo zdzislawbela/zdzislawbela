@@ -1,11 +1,3 @@
----
-title: "Welcome Page"
-author: "zdzislawbela"
-output:
-  html_document:
-    self_contained: no
----
-
 <h1>Hello there! 👋</h1>
 <h3>My name is Zdzislaw and here you will find my side projects repos.</h3>
 <p>&nbsp;</p>

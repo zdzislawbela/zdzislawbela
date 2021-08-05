@@ -1,8 +1,8 @@
-<h1>Hello there! 👋</h1>
-<h3>My name is Zdzislaw and here you will find my side projects repos.</h3>
+<h1>👋 there! </h1>
+<h3>My name is Zdzislaw. In my repos you'll find mainly React.js related projects. Have fun exploring!</h3>
 <p>&nbsp;</p>
 
-<h3>This is my main stack:</h3>
+<h3>Stack:</h3>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26" style="max-width:100%;"> <span>JavaScript</span>
 
@@ -18,7 +18,7 @@
 
 <p>&nbsp;</p>
 
-<h3>Below you can find more dev friendly description:</h3>
+<h3>more info:</h3>
 
 ```js
 const githubUser = {

@@ -1,21 +1,6 @@
 <h2>👋 Hello Everyone!</h2>
 <h4>I am doing frontend.</h4>
 
-
-```js
-const githubUser = {
-  bio: "Interested in writing clean code",
-  position: "Frontend Developer",
-  lvl: 1,
-  techStack: ["JS", "TS", "React.JS", "CSS3", "Sass", "HTML5", "git"],
-  otherSuperPowers: ["ENG", "DE"],
-  objective: "Develop frontend functionality for web applications",
-  location: "Wrocław",
-  openToCollaborate: true
-};
-```
-
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26" style="max-width:100%;"> JavaScript
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26" style="max-width:100%;"> TypeScript
